@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "Loose-GNSS-IMU", "Loose-GNSS-IMU\Loose-GNSS-IMU.vcxproj", "{FD553BA5-D060-4D9C-B715-7952D9B9CC0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD553BA5-D060-4D9C-B715-7952D9B9CC0B}.Debug|x64.ActiveCfg = Debug|x64
+		{FD553BA5-D060-4D9C-B715-7952D9B9CC0B}.Debug|x64.Build.0 = Debug|x64
+		{FD553BA5-D060-4D9C-B715-7952D9B9CC0B}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD553BA5-D060-4D9C-B715-7952D9B9CC0B}.Debug|x86.Build.0 = Debug|Win32
+		{FD553BA5-D060-4D9C-B715-7952D9B9CC0B}.Release|x64.ActiveCfg = Release|x64
+		{FD553BA5-D060-4D9C-B715-7952D9B9CC0B}.Release|x64.Build.0 = Release|x64
+		{FD553BA5-D060-4D9C-B715-7952D9B9CC0B}.Release|x86.ActiveCfg = Release|Win32
+		{FD553BA5-D060-4D9C-B715-7952D9B9CC0B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B5E42B1-8CA3-41A8-BB62-33394F260BC8}
+	EndGlobalSection
+EndGlobal
